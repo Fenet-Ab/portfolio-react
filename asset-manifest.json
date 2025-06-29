@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d38a717.css",
+    "main.js": "/static/js/main.8079fff0.js",
+    "static/media/mySchool.mp4": "/static/media/mySchool.1266996a4f36a5d8b94d.mp4",
+    "static/media/farm.mp4": "/static/media/farm.cc5705d1640777762526.mp4",
+    "static/media/project.mp4": "/static/media/project.77ffe4d878c920091e01.mp4",
+    "static/media/littleJourney.mp4": "/static/media/littleJourney.9e41b165299180b5d567.mp4",
+    "static/media/GDG.mp4": "/static/media/GDG.f3a775830266e8a7e2ad.mp4",
+    "static/media/wereda_management.png": "/static/media/wereda_management.ba46b4275bd98708b11f.png",
+    "static/media/cross_country.png": "/static/media/cross_country.407dc3358913a1b16d32.png",
+    "static/media/FENET (2).pdf": "/static/media/FENET (2).d70f35f4e88d09bdcff7.pdf",
+    "static/media/portfolio.png": "/static/media/portfolio.cd4b7b3c09a8dcc9d7e5.png",
+    "static/media/flutter_album.png": "/static/media/flutter_album.ada8ce49cd70a5d3b158.png",
+    "static/media/jetpack_addDrop.png": "/static/media/jetpack_addDrop.7c2dc16ef43be4a0e7a6.png",
+    "static/media/leetcode.png": "/static/media/leetcode.85bc19554e1fa73b0c97.png",
+    "static/media/mobile.png": "/static/media/mobile.05987636ad1567644313.png",
+    "static/media/image.png": "/static/media/image.c04ab01a86d1c05cd204.png",
+    "static/media/port_image.png": "/static/media/port_image.d7fd17fe4c7a6b66d751.png",
+    "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/database.png": "/static/media/database.90cee7aeae6c51f975b2.png",
+    "static/media/backend.png": "/static/media/backend.5d0616b5784b4287d10c.png",
+    "static/media/web_design.png": "/static/media/web_design.ea42251e9f3632c3814b.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.c826b0165560636baf0b.png",
+    "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/vscode.png": "/static/media/vscode.617d6a0a7dc1205d99b4.png",
+    "static/media/graphic_design.png": "/static/media/graphic_design.c852c2493d6fc28b4a05.png",
+    "static/media/youtube.png": "/static/media/youtube.bc069a2b5e1ecdb5e06e.png",
+    "static/media/telegram.png": "/static/media/telegram.9f245f3233b0faea9ffa.png",
+    "static/media/Black_Logo.png": "/static/media/Black_Logo.1d1f2882d2b5f097314d.png",
+    "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "index.html": "/index.html",
+    "main.2d38a717.css.map": "/static/css/main.2d38a717.css.map",
+    "main.8079fff0.js.map": "/static/js/main.8079fff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d38a717.css",
+    "static/js/main.8079fff0.js"
+  ]
+}
