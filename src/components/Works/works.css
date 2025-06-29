@@ -1,0 +1,92 @@
+#works{
+    margin: 3rem auto;
+    /* min-height: calc(100vh - 2rem); */
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+    padding:0 1rem;
+}
+.worksTitle{
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    position: relative;
+
+}
+.worksTitle::after{
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: #fbbf24;
+    border-radius: 2px;
+}
+
+.worksDesc{
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 80%;
+
+}
+.worksImgs{
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 60rem;
+}
+.worksCard{
+    flex-basis: 22rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background: rgb(50,50,50);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.worksImg{
+    object-fit: cover;
+    width: 10rem;
+    height: 10rem;
+}
+.worksCardText{
+    flex-grow: 1;
+}
+.worksCardText>p{
+    font-size: 0.9rem;
+    font-weight: 200;
+
+}
+.worksCardText>a{
+    text-decoration: none;
+    color: yellow;
+    font-weight: 100;
+    font-size: 1rem;
+
+}
+.workBtn{
+    background: White;
+    margin: 3rem 0;
+    padding: 0.5rem 2.5rem;
+    border: none;
+    border-radius: 2rem;
+
+}
+.workBtn:hover{
+    background: rgb(243, 243, 162);
+}
